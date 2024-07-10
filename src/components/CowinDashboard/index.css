@@ -1,0 +1,42 @@
+.app-container {
+  background-color: #161625;
+  min-height: 100vh;
+  background-size: cover;
+  font-family: 'Roboto';
+  display: flex;
+  justify-content: center;
+}
+
+.app-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 1110px;
+  width: 80%;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.website-name {
+  color: #2cc6c6;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 1.5;
+  padding-left: 10px;
+}
+
+.website-logo {
+  height: 50px;
+  width: 50px;
+}
+
+.description {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 24px;
+}

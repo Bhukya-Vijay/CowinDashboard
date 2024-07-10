@@ -1,0 +1,14 @@
+.gender-data-card {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.by-gender-heading {
+  color: #cbd5e1;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.5;
+}
